@@ -1,0 +1,158 @@
+body{
+    padding: 30px;
+}
+nav.navbar.navbar-expand-sm.navbar-dark.bg-warning{
+    color: rgb(85, 8, 8); 
+}
+
+.jumbotron1{
+    background-color: rgba(0, 0, 0, 0.068);
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+/********************* GENERAL STYLES ***********************/
+
+#projects-button{
+    border: 2px solid green;
+    padding: 10px;
+    width: 50%;
+    color: green;
+    text-decoration-line: none;
+    border-radius: 4px;
+}
+
+.header{
+    margin-top: 40px;
+}
+p.heading.text{
+    width: 40%;
+}
+
+.head-image-slider{
+    width:200px;
+    display: inline-flex;
+    position: relative;
+    right: 20px;
+
+}
+.head-image-slider,img{
+    display: inline;
+}
+.btn-group-lg>.btn, .btn-lg{
+    margin-bottom: 10px;
+}
+.lead{
+    text-align: center;
+}
+
+.wrap{
+    float: right;
+    margin: 15px;
+    border-radius: 15px;
+}
+.wrap2{
+    width: 40%;
+    float: right;
+    margin: 15px;
+}
+
+
+
+.card-title{
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgba(0, 0, 0, 0.781);
+    outline-color: 1px solid black;
+}
+
+.card-text{
+    text-align: center;
+    margin-top: 50px;
+}
+
+p,strong{
+    text-align: center;
+}
+
+.card-img-top{
+    width: 400px;
+    margin-left: 40px;
+}
+
+.header3{
+    margin-top: 40px;
+    text-align: center;
+}
+
+.container.header3.container,div.text-header,h4{
+    font-size: 50px;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgba(0, 0, 0, 0.781);
+    outline-color: 1px solid black;
+}
+
+div.image-container{
+    margin: 1.66%;
+    width: 100%;
+    height: 100%;
+}
+.image-container1{
+    width: 30%;
+    padding: 90px;
+    background-color: yellow;
+}
+
+.red{
+    background-image: url(../images/help.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 48%;
+    padding: 100px;
+    margin: 0.90%;
+
+}
+
+.red:hover{
+    opacity: 0.99;
+    color: honeydew;
+    border-radius: 50px;
+}
+
+.blue:hover{
+    opacity: 0.99;
+    color: honeydew;
+    border-radius: 50px;
+    opacity: 0.50;
+
+}
+
+.blue{
+    background-image: url(../images/help.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 48%;
+    padding: 100px;
+    margin: 0.90%;
+
+
+}
+
+#p-head{
+    font-size: bolder;
+    font-weight: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: lightgreen;
+    stroke: black;
+    stroke-width: 100%;
+}
+
+#p-text{
+    font-family: cursive;
+    font-weight: bolder;
+    font-size: 15px;
+}
